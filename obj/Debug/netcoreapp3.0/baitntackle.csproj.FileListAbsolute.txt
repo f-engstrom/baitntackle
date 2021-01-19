@@ -1,0 +1,11 @@
+C:\Users\Frans\Dropbox\Projects\baitntackle\bin\Debug\netcoreapp3.0\baitntackle.exe
+C:\Users\Frans\Dropbox\Projects\baitntackle\bin\Debug\netcoreapp3.0\baitntackle.deps.json
+C:\Users\Frans\Dropbox\Projects\baitntackle\bin\Debug\netcoreapp3.0\baitntackle.runtimeconfig.json
+C:\Users\Frans\Dropbox\Projects\baitntackle\bin\Debug\netcoreapp3.0\baitntackle.runtimeconfig.dev.json
+C:\Users\Frans\Dropbox\Projects\baitntackle\bin\Debug\netcoreapp3.0\baitntackle.dll
+C:\Users\Frans\Dropbox\Projects\baitntackle\bin\Debug\netcoreapp3.0\baitntackle.pdb
+C:\Users\Frans\Dropbox\Projects\baitntackle\obj\Debug\netcoreapp3.0\baitntackle.csprojAssemblyReference.cache
+C:\Users\Frans\Dropbox\Projects\baitntackle\obj\Debug\netcoreapp3.0\baitntackle.AssemblyInfoInputs.cache
+C:\Users\Frans\Dropbox\Projects\baitntackle\obj\Debug\netcoreapp3.0\baitntackle.AssemblyInfo.cs
+C:\Users\Frans\Dropbox\Projects\baitntackle\obj\Debug\netcoreapp3.0\baitntackle.dll
+C:\Users\Frans\Dropbox\Projects\baitntackle\obj\Debug\netcoreapp3.0\baitntackle.pdb
